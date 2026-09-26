@@ -1,0 +1,16 @@
+.vscode/
+
+run.bat
+
+*.exe
+*.out
+*.app
+
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dll
+*.lib
+*.a
